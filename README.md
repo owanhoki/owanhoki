@@ -2,5 +2,3 @@
 - Je Electronicien, Informaticien et Programmeur.
 - Ressortissant de l'Ecole Nationele d'Administration de la République Démocratique du Congo (9e Promotion)
 - Au-delà d'être programmeur, Analyste SOC, Pentester et DevSecOps avec avec beaucoup d'années d'expériences notamment dans le DFIR, Pentest et Developpement avec C# et Rust.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: .
